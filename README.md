@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AlgoU File Sharing Application
 
 A modern MERN stack application for secure file upload and sharing. Users can upload files and get shareable download links with download tracking.
@@ -161,3 +162,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 If you encounter any issues or have questions, please create an issue in the GitHub repository.
+=======
+# File-Sharing-App
+>>>>>>> 1c007f5cc13c56d8e2627b224d30e0e31df459e5
