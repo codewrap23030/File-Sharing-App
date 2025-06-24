@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# AlgoU File Sharing Application
+# File Sharing Application
 
 A modern MERN stack application for secure file upload and sharing. Users can upload files and get shareable download links with download tracking.
 
@@ -32,44 +31,6 @@ Before running this application, make sure you have:
 - [MongoDB](https://www.mongodb.com/) (running locally or connection to MongoDB Atlas)
 - npm or yarn package manager
 
-## Installation & Setup
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/AlgoU-MERN-File-Sharing-Application.git
-cd AlgoU-MERN-File-Sharing-Application
-```
-
-### 2. Backend Setup
-```bash
-# Navigate to server directory
-cd server
-
-# Install dependencies
-npm install
-
-# Create environment file
-cp .env.example .env
-
-# Edit .env file with your MongoDB connection string
-# MONGODB_URL=mongodb://localhost:27017/file-sharing
-# PORT=8000
-```
-
-### 3. Frontend Setup
-```bash
-# Navigate to client directory (from root)
-cd client
-
-# Install dependencies
-npm install
-```
-
-### 4. Create uploads directory
-```bash
-# From server directory
-mkdir uploads
-```
 
 ## Running the Application
 
@@ -155,13 +116,3 @@ PORT=8000
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Support
-
-If you encounter any issues or have questions, please create an issue in the GitHub repository.
-=======
-# File-Sharing-App
->>>>>>> 1c007f5cc13c56d8e2627b224d30e0e31df459e5
